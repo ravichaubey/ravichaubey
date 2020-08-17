@@ -12,5 +12,5 @@ I'm a student pursuing Bachelor of Technology in `Computer Science and Engineeri
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/uravichaubey/)
 [<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravichaubey1506)
 
-![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=ravichaubey&show_icons=true&theme=dark)
+![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravichaubey&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravichaubey&theme=cobalt&layout=compact)
