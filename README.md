@@ -1,11 +1,18 @@
 ### Hi Folk 👋
 
-I'm a student pursuing Bachelor of Technology in `Computer Science and Engineering` from BIT Mesra, Jaipur. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I also like to guide and mentor newbies willing to put their effort in this exciting field
+- Miscrosoft Student Partner 2021 (BETA),
+- Former Data Analyst Intern at Sapio Analytics,
+- Kaggle Double Master,
+
+Experienced Data Scientist with in-depth knowledge in Data Science Methodology, Learning Algorithms, Neural Networks, Machine Learning, AI & Fundamental Engineering, Big Data Tools. I hold extensive education qualifications with Bachelor’s in Computer Science from Birla Institute of Technology Mesra, Jaipur Campus.
+
+I am passionate about creating, designing and testing learning algorithms and data products. I am highly Analytical and thrive in fast paced complex environments where I can troubleshoot complex data challenges and data products, and integrate concepts into highly innovative solutions.
+
+**Specialties:** Data Structures and Algorithms, Data Cleaning and Transformations, Data Analysis, Machine Learning, Deep Learning, AI, Statistics, Probability Theory, Big Data Analytics, Business Intelligence Tools (Tableau) and Database Managment System. 
 
 - 🔭 I Know Machine Learning, Deep Learning and Big Data Analytics.
 - 🌱 I’m currently working on Competitive Programming and Data Science.
 - 🤝 I’m looking to collaborate on Data science and Artifical Intelligence Research Projects.
-
 
 ### Connect with Me
 
