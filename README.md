@@ -10,10 +10,6 @@ I am passionate about creating, designing and testing learning algorithms and da
 
 **Specialties:** Data Structures and Algorithms, Data Cleaning and Transformations, Data Analysis, Machine Learning, Deep Learning, AI, Statistics, Probability Theory, Big Data Analytics, Business Intelligence Tools (Tableau) and Database Managment System. 
 
-- 🔭 I Know Machine Learning, Deep Learning and Big Data Analytics.
-- 🌱 I’m currently working on Competitive Programming and Data Science.
-- 🤝 I’m looking to collaborate on Data science and Artifical Intelligence Research Projects.
-
 ### Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/uravichaubey/)
