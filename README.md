@@ -1,14 +1,14 @@
 ### Hi Folk 👋 I am Ravi
 
-- Miscrosoft Student Partner 2021 (BETA),
+- Microsoft Student Partner 2021 (BETA),
 - Former Data Analyst Intern at Sapio Analytics,
 - Kaggle Double Master,
 
-Experienced Data Scientist with in-depth knowledge in Data Science Methodology, Learning Algorithms, Neural Networks, Machine Learning, AI & Fundamental Engineering, Big Data Tools. I hold extensive education qualifications with Bachelor’s in Computer Science from Birla Institute of Technology Mesra, Jaipur Campus.
+Experienced Data Scientist with in-depth knowledge in Data Science Methodology, Learning Algorithms, Neural Networks, Machine Learning, AI & Fundamental Engineering, Big Data Tools. I hold extensive education qualifications with a Bachelor’s in Computer Science from Birla Institute of Technology Mesra, Jaipur Campus.
 
-I am passionate about creating, designing and testing learning algorithms and data products. I am highly Analytical and thrive in fast paced complex environments where I can troubleshoot complex data challenges and data products, and integrate concepts into highly innovative solutions.
+I am passionate about creating, designing, and testing learning algorithms and data products. I am highly Analytical and thrive in fast-paced complex environments where I can troubleshoot complex data challenges and data products, and integrate concepts into highly innovative solutions.
 
-**Specialties:** Data Structures and Algorithms, Data Cleaning and Transformations, Data Analysis, Machine Learning, Deep Learning, AI, Statistics, Probability Theory, Big Data Analytics, Business Intelligence Tools (Tableau) and Database Managment System. 
+**Specialties:** Programming with Python, R and Matlab, Data Structures, Algorithms, Data Cleaning and Transformations, Data Visualization, Database Management, and Modelling, Probability and Statistics, Machine Learning, Deep Learning, Big Data Analytics, Tableau
 
 ### Connect with Me
 
