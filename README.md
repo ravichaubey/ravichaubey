@@ -1,6 +1,7 @@
 ### Hi Folk 👋 I am Ravi
 
-- Microsoft Student Partner 2021 (BETA),
+- Data Analyst Trainee at Sapio Analytics,
+- Microsoft Student Partner 2020-2021 (BETA),
 - Former Data Analyst Intern at Sapio Analytics,
 - Kaggle Double Master,
 
