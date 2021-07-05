@@ -1,15 +1,14 @@
 ### Hi Folk 👋 I am Ravi
 
-- Data Analyst Trainee at Sapio Analytics,
-- Microsoft Student Partner 2020-2021 (BETA),
 - Former Data Analyst Intern at Sapio Analytics,
 - Kaggle Double Master,
+- Microsoft Student Partner 2020-2021 (BETA)
 
 Experienced Data Scientist with in-depth knowledge in Data Science Methodology, Learning Algorithms, Neural Networks, Machine Learning, AI & Fundamental Engineering, Big Data Tools. I hold extensive education qualifications with a Bachelor’s in Computer Science from Birla Institute of Technology Mesra, Jaipur Campus.
 
 I am passionate about creating, designing, and testing learning algorithms and data products. I am highly Analytical and thrive in fast-paced complex environments where I can troubleshoot complex data challenges and data products, and integrate concepts into highly innovative solutions.
 
-**Specialties:** Programming with Python, R and Matlab, Data Structures, Algorithms, Data Cleaning and Transformations, Data Visualization, Database Management, and Modelling, Probability and Statistics, Machine Learning, Deep Learning, Big Data Analytics, Tableau
+Specialties: Programming with Python, R and Matlab, Data Structures, Algorithms, Data Cleaning and Transformations, Data Visualization, Database Management, and Modelling, Probability and Statistics, Machine Learning, Deep Learning, Big Data Analytics, Tableau
 
 ### Connect with Me
 
